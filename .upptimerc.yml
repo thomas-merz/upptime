@@ -7,17 +7,17 @@ sites:
     url: $URL_DMDE
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
 #    maxResponseTime: 3000
-  - name: Wiki
-    url: $URL_WIKI
-#    maxResponseTime: 3000
-  - name: Jira
-    url: $URL_JIRA
+  - name: Alpha
+    url: $URL_ALPHA
 #    maxResponseTime: 3000
   - name: Gitlab
     url: $URL_GITLAB
 #    maxResponseTime: 3000
-  - name: Alpha
-    url: $URL_ALPHA
+  - name: Jira
+    url: $URL_JIRA
+#    maxResponseTime: 3000
+  - name: Wiki
+    url: $URL_WIKI
 #    maxResponseTime: 3000
 
 assignees:

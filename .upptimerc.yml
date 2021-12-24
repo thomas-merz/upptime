@@ -13,8 +13,8 @@ sites:
   - name: Gitlab
     url: $URL_GITLAB
 #    maxResponseTime: 3000
-  - name: Jira
-    url: $URL_JIRA
+### TODO:  - name: Jira
+### TODO:   url: $URL_JIRA
 #    maxResponseTime: 3000
   - name: Wiki
     url: $URL_WIKI

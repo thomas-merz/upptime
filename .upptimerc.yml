@@ -12,8 +12,8 @@ sites:
   - name: Gitlab
     url: $URL_GITLAB
 #    maxResponseTime: 3000
-### TODO:  - name: Jira
-### TODO:   url: $URL_JIRA
+### NEED VPN:  - name: Jira
+### NEED VPN:   url: $URL_JIRA
 #    maxResponseTime: 3000
   - name: Wiki
     url: $URL_WIKI

@@ -22,9 +22,9 @@
     "url": "$URL_ALPHA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1157,
     "timeMonth": 1333,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-01": 0
+    }
   },
   {
     "name": "Gitlab",

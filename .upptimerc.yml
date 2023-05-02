@@ -9,6 +9,9 @@ sites:
   - name: Alpha
     url: $URL_ALPHA
 #    maxResponseTime: 3000
+  - name: Nutrax
+    url: $URL_NUTRAX
+#    maxResponseTime: 3000
   - name: Gitlab
     url: $URL_GITLAB
 #    maxResponseTime: 3000

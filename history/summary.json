@@ -22,18 +22,19 @@
     "url": "$URL_ALPHA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1283,
+    "time": 1284,
     "timeDay": 833,
     "timeWeek": 858,
     "timeMonth": 803,
     "timeYear": 1235,
     "dailyMinutesDown": {
+      "2023-08-12": 0,
       "2022-11-01": 21
     }
   },
@@ -86,9 +87,9 @@
     "url": "$URL_WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,6 +98,8 @@
     "timeWeek": 645,
     "timeMonth": 653,
     "timeYear": 1088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-12": 0
+    }
   }
 ]

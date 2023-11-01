@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 410,
-    "timeWeek": 339,
-    "timeMonth": 361,
-    "timeYear": 370,
+    "timeDay": 409,
+    "timeWeek": 356,
+    "timeMonth": 367,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1218,
-    "timeDay": 861,
-    "timeWeek": 3119,
-    "timeMonth": 1316,
+    "time": 1215,
+    "timeDay": 1112,
+    "timeWeek": 3156,
+    "timeMonth": 1329,
     "timeYear": 1159,
-    "dailyMinutesDown": {
-      "2022-11-01": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nutrax",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 897,
-    "timeDay": 741,
-    "timeWeek": 772,
-    "timeMonth": 785,
+    "timeDay": 962,
+    "timeWeek": 813,
+    "timeMonth": 792,
     "timeYear": 897,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2965,
-    "timeDay": 4173,
-    "timeWeek": 3728,
-    "timeMonth": 3856,
-    "timeYear": 3388,
+    "time": 2972,
+    "timeDay": 5866,
+    "timeWeek": 3838,
+    "timeMonth": 3939,
+    "timeYear": 3397,
     "dailyMinutesDown": {
       "2023-07-19": 16,
       "2023-04-27": 15,
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
-    "timeDay": 696,
-    "timeWeek": 689,
-    "timeMonth": 693,
+    "timeDay": 959,
+    "timeWeek": 722,
+    "timeMonth": 698,
     "timeYear": 995,
     "dailyMinutesDown": {}
   }

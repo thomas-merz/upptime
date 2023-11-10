@@ -28,8 +28,6 @@ sites:
 #    maxResponseTime: 3000
   - name: Microsoft Login
     url: $URL_MS_LOGIN
-    expectedStatusCodes:
-      - 302
 #    maxResponseTime: 3000
 assignees:
   - thomas-merz

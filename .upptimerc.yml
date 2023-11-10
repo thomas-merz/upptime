@@ -50,26 +50,6 @@ status-website:
   introTitle: "**Upptime** monitor and status page"
   introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomas-merz/upptime). [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/thomas-merz/upptime.svg)](http://isitmaintained.com/project/thomas-merz/upptime)
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
-
-assignees:
-  - thomas-merz
-
-status-website:
-  # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
-  robotsText: "User-agent: * \n Disallow: /"
-  metaTags:
-    - name: "color-scheme"
-      content: "light"
-    - name: "robots"
-      content: "noindex"
-  # https://github.com/upptime/upptime/discussions/54#discussioncomment-215193
-  #publish: true
-  baseUrl: /upptime
-  logoUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
-  name: Upptime
-  introTitle: "**Upptime** monitor and status page"
-  introMessage: This is the status page which uses **real-time** data from Thomas Merz' [GitHub repository](https://github.com/thomas-merz/upptime). [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/thomas-merz/upptime.svg)](http://isitmaintained.com/project/thomas-merz/upptime)
-  # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
   i18n:
     footer: This page is powered by [Upptime](https://upptime.js.org)
   navbar:

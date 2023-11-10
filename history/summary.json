@@ -118,18 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "microsoft-login",
     "status": "up",
-    "uptime": "6.81%",
-    "uptimeDay": "6.81%",
-    "uptimeWeek": "6.81%",
-    "uptimeMonth": "6.81%",
-    "uptimeYear": "6.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 153,
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
-    "dailyMinutesDown": {
-      "2023-11-10": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]

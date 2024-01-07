@@ -58,18 +58,19 @@
     "url": "$URL_GITLAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3308,
+    "time": 3311,
     "timeDay": 3502,
     "timeWeek": 4114,
     "timeMonth": 4714,
     "timeYear": 3934,
     "dailyMinutesDown": {
+      "2024-01-07": 1,
       "2023-07-19": 16,
       "2023-04-27": 15,
       "2023-03-03": 17
@@ -98,9 +99,9 @@
     "url": "$URL_ADFS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +110,9 @@
     "timeWeek": 126,
     "timeMonth": 131,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   },
   {
     "name": "Microsoft Login",

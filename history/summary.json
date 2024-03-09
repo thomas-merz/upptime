@@ -4,18 +4,20 @@
     "url": "$URL_DMDE",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png",
     "slug": "dm-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 318,
-    "timeWeek": 326,
-    "timeMonth": 338,
-    "timeYear": 356,
-    "dailyMinutesDown": {}
+    "timeDay": 529,
+    "timeWeek": 378,
+    "timeMonth": 351,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2024-03-09": 0
+    }
   },
   {
     "name": "Alpha",

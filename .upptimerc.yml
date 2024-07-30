@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: dm-Homepage
-    url: $URL_DMDE
+    url: https://www.dm.de/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
 #    maxResponseTime: 3000
   - name: Alpha
@@ -14,6 +14,7 @@ sites:
 #    maxResponseTime: 3000
   - name: Gitlab
     url: $URL_GITLAB
+    icon: https://logowik.com/content/uploads/images/gitlab8368.jpg
 #    maxResponseTime: 3000
 ### NEED VPN:  - name: Jira
 ### NEED VPN:   url: $URL_JIRA

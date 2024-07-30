@@ -32,6 +32,10 @@ sites:
   - name: Microsoft Login
     url: $URL_MS_LOGIN
 #    maxResponseTime: 3000
+  - name: Microsoft Teams
+    url: https://teams.microsoft.com
+  - name: Microsoft Outlook
+    url: https://outlook.office.com
 assignees:
   - thomas-merz
 

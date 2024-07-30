@@ -18,6 +18,8 @@ sites:
 ### NEED VPN:  - name: Jira
 ### NEED VPN:   url: $URL_JIRA
 #    maxResponseTime: 3000
+  - name: VPN
+    url: $URL_VPN
   - name: Wiki
     url: $URL_WIKI
 #    maxResponseTime: 3000

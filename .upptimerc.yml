@@ -20,6 +20,7 @@ sites:
 #    maxResponseTime: 3000
   - name: VPN
     url: $URL_VPN
+    __dangerous__insecure: true
   - name: Wiki
     url: $URL_WIKI
 #    maxResponseTime: 3000

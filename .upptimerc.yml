@@ -37,6 +37,9 @@ sites:
     url: https://teams.microsoft.com
   - name: Microsoft Outlook
     url: https://outlook.office.com
+    expectedStatusCodes:
+      - 200
+      - 417
 assignees:
   - thomas-merz
 

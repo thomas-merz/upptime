@@ -31,7 +31,7 @@ sites:
       - 404
 #    maxResponseTime: 3000
   - name: Microsoft Login
-    url: $URL_MS_LOGIN
+    url: login.microsoft.com
 #    maxResponseTime: 3000
   - name: Microsoft Teams
     url: https://teams.microsoft.com

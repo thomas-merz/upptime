@@ -1,7 +1,7 @@
 url: login.microsoft.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-05T18:31:57.046Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2024-08-05T18:50:02.117Z
 startTime: 2023-11-10T17:15:18.761Z
 generator: Upptime <https://github.com/upptime/upptime>

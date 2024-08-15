@@ -87,18 +87,16 @@
     "slug": "jira",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 645,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2024-08-15": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VPN",

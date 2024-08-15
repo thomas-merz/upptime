@@ -27,6 +27,7 @@ sites:
     __dangerous__insecure: true
   - name: Wiki
     url: $URL_WIKI
+    icon: https://img.icons8.com/color/452/atlassian-confluence.png
 #    maxResponseTime: 3000
   - name: ADFS
     url: $URL_ADFS

@@ -21,8 +21,6 @@ sites:
     #icon: https://logowik.com/content/uploads/images/jira2966.logowik.com.webp
     #icon: https://marketplace-api.looker.com/block-icons/jira_icon.png
     icon: https://iconape.com/wp-content/files/ew/71098/png/jira-3.png
-    expectedStatusCodes:
-      - 302
 #    maxResponseTime: 3000
   - name: VPN
     url: $URL_VPN

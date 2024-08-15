@@ -24,6 +24,7 @@ sites:
 #    maxResponseTime: 3000
   - name: VPN
     url: $URL_VPN
+    icon: https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg
     __dangerous__insecure: true
   - name: Wiki
     url: $URL_WIKI
@@ -31,11 +32,13 @@ sites:
 #    maxResponseTime: 3000
   - name: ADFS
     url: $URL_ADFS
+    icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
     expectedStatusCodes:
       - 404
 #    maxResponseTime: 3000
   - name: Microsoft Login
     url: login.microsoft.com
+    icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
 #    maxResponseTime: 3000
   - name: Microsoft Teams
     url: https://teams.microsoft.com

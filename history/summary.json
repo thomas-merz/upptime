@@ -22,18 +22,20 @@
     "url": "$URL_ALPHA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 863,
-    "timeWeek": 1084,
-    "timeMonth": 947,
-    "timeYear": 965,
-    "dailyMinutesDown": {}
+    "time": 958,
+    "timeDay": 824,
+    "timeWeek": 1047,
+    "timeMonth": 943,
+    "timeYear": 964,
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "Nutrax",
@@ -85,18 +87,20 @@
     "url": "$URL_JIRA",
     "icon": "https://iconape.com/wp-content/files/ew/71098/png/jira-3.png",
     "slug": "jira",
-    "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.49%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 729,
-    "timeWeek": 795,
-    "timeMonth": 757,
-    "timeYear": 757,
-    "dailyMinutesDown": {}
+    "time": 758,
+    "timeDay": 751,
+    "timeWeek": 792,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "VPN",

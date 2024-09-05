@@ -1,7 +1,7 @@
 url: $URL_ALPHA
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2024-09-04T23:16:19.539Z
+status: down
+code: 429
+responseTime: 784
+lastUpdated: 2024-09-05T07:08:49.324Z
 startTime: 2021-12-23T18:48:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>

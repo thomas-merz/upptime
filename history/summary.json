@@ -90,9 +90,9 @@
     "url": "$URL_JIRA",
     "icon": "https://iconape.com/wp-content/files/ew/71098/png/jira-3.png",
     "slug": "jira",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 695,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-09-05": 15
     }
   },

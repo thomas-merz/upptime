@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 336,
-    "timeWeek": 387,
+    "timeWeek": 401,
     "timeMonth": 402,
     "timeYear": 372,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 553,
-    "timeWeek": 979,
+    "timeWeek": 1030,
     "timeMonth": 959,
     "timeYear": 911,
     "dailyMinutesDown": {
@@ -42,18 +42,20 @@
     "url": "$URL_1PASSWORD",
     "icon": "https://w7.pngwing.com/pngs/950/276/png-transparent-1password-password-manager-android-lastpass-android-trademark-logo-1-password.png",
     "slug": "1-password",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 522,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 482,
+    "timeWeek": 679,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   },
   {
     "name": "bitwarden",
@@ -68,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 428,
-    "timeWeek": 473,
+    "timeWeek": 471,
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {}
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 930,
     "timeDay": 923,
-    "timeWeek": 1078,
+    "timeWeek": 1090,
     "timeMonth": 1013,
     "timeYear": 924,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "99.89%",
     "time": 4076,
     "timeDay": 2935,
-    "timeWeek": 3485,
+    "timeWeek": 3598,
     "timeMonth": 3614,
     "timeYear": 3940,
     "dailyMinutesDown": {
@@ -138,7 +140,7 @@
     "uptimeYear": "99.99%",
     "time": 837,
     "timeDay": 476,
-    "timeWeek": 685,
+    "timeWeek": 717,
     "timeMonth": 1200,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -159,7 +161,7 @@
     "uptimeYear": "99.99%",
     "time": 632,
     "timeDay": 488,
-    "timeWeek": 573,
+    "timeWeek": 607,
     "timeMonth": 625,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -179,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 766,
     "timeDay": 926,
-    "timeWeek": 707,
+    "timeWeek": 766,
     "timeMonth": 722,
     "timeYear": 749,
     "dailyMinutesDown": {}
@@ -197,7 +199,7 @@
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 419,
-    "timeWeek": 482,
+    "timeWeek": 515,
     "timeMonth": 512,
     "timeYear": 302,
     "dailyMinutesDown": {}
@@ -215,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 560,
-    "timeWeek": 422,
+    "timeWeek": 445,
     "timeMonth": 423,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -235,7 +237,7 @@
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 104,
-    "timeWeek": 200,
+    "timeWeek": 205,
     "timeMonth": 169,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -247,13 +249,13 @@
     "slug": "microsoft-outlook",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 238,
-    "timeDay": 658,
-    "timeWeek": 310,
+    "timeDay": 202,
+    "timeWeek": 350,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {

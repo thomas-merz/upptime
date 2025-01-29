@@ -20,6 +20,9 @@ sites:
   - name: bitwarden
     url: $URL_BITWARDEN
     icon: https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png
+  - name: Condeco
+    url: $URL_CONDECO
+    icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
   - name: Gitlab
     url: $URL_GITLAB
     icon: https://logowik.com/content/uploads/images/gitlab8368.jpg

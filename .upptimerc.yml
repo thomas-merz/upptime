@@ -25,6 +25,9 @@ sites:
   - name: Condeco
     url: $URL_CONDECO
     icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
+  - name: Crowdstrike Dashboard
+    url: $URL_CROWDSTRIKE
+    icon: https://w7.pngwing.com/pngs/409/360/png-transparent-crowdstrike-hd-logo-thumbnail.png
   - name: dm-DWH
     url: $URL_DMDWH
     icon: https://s3-symbol-logo.tradingview.com/microstrategy--big.svg

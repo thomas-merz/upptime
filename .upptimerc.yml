@@ -30,6 +30,11 @@ sites:
   - name: dm-SAP
     url: $URL_DMSAP
     icon: https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png
+  - name: dm-Sharepoint
+    url: $URL_DMSHAREPOINT
+    icon: https://www.liblogo.com/img-logo/sh7810fc31-sharepoint-logo-file-microsoft-office-sharepoint-2019-present-svg-wikimedia.png
+    expectedStatusCodes:
+      - 401
   - name: dm-Travel
     url: $URL_DMTRAVEL
   - name: Gitlab

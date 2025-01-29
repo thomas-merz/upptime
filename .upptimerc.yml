@@ -15,6 +15,7 @@ sites:
       - 404
   - name: ALI
     url: $URL_ALI
+    icon: https://logos.textgiraffe.com/logos/logo-name/Ali-designstyle-cartoon-m.png
   - name: Alpha
     url: $URL_ALPHA
     icon: https://static.vecteezy.com/system/resources/previews/000/576/722/original/alpha-icon-vector-logo-template-illustration-design-vector-eps-10.jpg

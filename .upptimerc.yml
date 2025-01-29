@@ -25,6 +25,8 @@ sites:
     url: $URL_VPN
     icon: https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg
     __dangerous__insecure: true
+  - name: ALI
+    url: $URL_ALI
   - name: Wiki
     url: $URL_WIKI
     icon: https://img.icons8.com/color/452/atlassian-confluence.png

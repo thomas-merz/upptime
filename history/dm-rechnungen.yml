@@ -1,7 +1,7 @@
 url: $URL_DMRECHNUNGEN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T12:20:02.315Z
+status: up
+code: 200
+responseTime: 1037
+lastUpdated: 2025-01-29T12:21:33.261Z
 startTime: 2025-01-29T12:20:02.311Z
 generator: Upptime <https://github.com/upptime/upptime>

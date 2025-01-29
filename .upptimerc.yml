@@ -64,6 +64,7 @@ sites:
       - 417
   - name: Nutrax
     url: $URL_NUTRAX
+    icon: https://www.softwareabc24.de/logos/timesec-zeiterfassung-software-logo-2024.png
   - name: VPN
     url: $URL_VPN
     icon: https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg

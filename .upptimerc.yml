@@ -23,6 +23,8 @@ sites:
   - name: Condeco
     url: $URL_CONDECO
     icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
+  - name: dm-Rechnungen
+    url: $URL_DMRECHNUNGEN
   - name: dm-SAP
     url: $URL_DMSAP
     icon: https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png

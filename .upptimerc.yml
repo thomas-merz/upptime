@@ -34,6 +34,7 @@ sites:
     icon: https://logowik.com/content/uploads/images/aws-iam2657.jpg
   - name: dm-Rechnungen
     url: $URL_DMRECHNUNGEN
+    icon: https://cornelia-pikal.de/wp-content/uploads/2020/04/payment_invoice.png
   - name: dm-SAP
     url: $URL_DMSAP
     icon: https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png

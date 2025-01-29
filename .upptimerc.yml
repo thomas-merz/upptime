@@ -17,6 +17,7 @@ sites:
     url: $URL_ALI
   - name: Alpha
     url: $URL_ALPHA
+    icon: https://static.vecteezy.com/system/resources/previews/000/576/722/original/alpha-icon-vector-logo-template-illustration-design-vector-eps-10.jpg
   - name: bitwarden
     url: $URL_BITWARDEN
     icon: https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png

@@ -5,36 +5,27 @@ sites:
   - name: dm-Homepage
     url: https://www.dm.de/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
-  - name: Alpha
-    url: $URL_ALPHA
   - name: 1Password
     url: $URL_1PASSWORD
     icon: https://w7.pngwing.com/pngs/950/276/png-transparent-1password-password-manager-android-lastpass-android-trademark-logo-1-password.png
+  - name: ADFS
+    url: $URL_ADFS
+    icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
+    expectedStatusCodes:
+      - 404
+  - name: ALI
+    url: $URL_ALI
+  - name: Alpha
+    url: $URL_ALPHA
   - name: bitwarden
     url: $URL_BITWARDEN
     icon: https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png
-  - name: Nutrax
-    url: $URL_NUTRAX
   - name: Gitlab
     url: $URL_GITLAB
     icon: https://logowik.com/content/uploads/images/gitlab8368.jpg
   - name: Jira
     url: $URL_JIRA
     icon: https://iconape.com/wp-content/files/ew/71098/png/jira-3.png
-  - name: VPN
-    url: $URL_VPN
-    icon: https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg
-    __dangerous__insecure: true
-  - name: ALI
-    url: $URL_ALI
-  - name: Wiki
-    url: $URL_WIKI
-    icon: https://img.icons8.com/color/452/atlassian-confluence.png
-  - name: ADFS
-    url: $URL_ADFS
-    icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
-    expectedStatusCodes:
-      - 404
   - name: Microsoft Login
     url: login.microsoft.com
     icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
@@ -45,6 +36,15 @@ sites:
     expectedStatusCodes:
       - 200
       - 417
+  - name: Nutrax
+    url: $URL_NUTRAX
+  - name: VPN
+    url: $URL_VPN
+    icon: https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg
+    __dangerous__insecure: true
+  - name: Wiki
+    url: $URL_WIKI
+    icon: https://img.icons8.com/color/452/atlassian-confluence.png
 assignees:
   - thomas-merz
 

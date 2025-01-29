@@ -45,6 +45,7 @@ sites:
       - 401
   - name: dm-Travel
     url: $URL_DMTRAVEL
+    icon: https://img.freepik.com/premium-vector/detailed-travel-logo_23-2148616612.jpg?w=2000
   - name: Gitlab
     url: $URL_GITLAB
     icon: https://logowik.com/content/uploads/images/gitlab8368.jpg

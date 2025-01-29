@@ -25,6 +25,9 @@ sites:
     icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
   - name: dm-DWH
     url: $URL_DMDWH
+  - name: dm-GPT
+    url: $URL_DMGPT
+    icon: https://static.vecteezy.com/system/resources/previews/021/972/603/non_2x/minsk-belarus-03-27-2023-openai-and-chatgpt-logo-artifical-chatbot-system-chat-bot-button-for-web-app-and-phone-icon-symbol-editorial-illustration-free-vector.jpg
   - name: dm-Rechnungen
     url: $URL_DMRECHNUNGEN
   - name: dm-SAP

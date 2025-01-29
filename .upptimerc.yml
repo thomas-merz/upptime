@@ -23,6 +23,8 @@ sites:
   - name: Condeco
     url: $URL_CONDECO
     icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
+  - name: dm-DWH
+    url: $URL_DMDWH
   - name: dm-Rechnungen
     url: $URL_DMRECHNUNGEN
   - name: dm-SAP

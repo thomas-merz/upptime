@@ -154,19 +154,19 @@
     "url": "$URL_DMDWH",
     "icon": "https://s3-symbol-logo.tradingview.com/microstrategy--big.svg",
     "slug": "dm-dwh",
-    "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
-    "time": 571,
-    "timeDay": 573,
-    "timeWeek": 601,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "status": "up",
+    "uptime": "98.33%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
+    "time": 568,
+    "timeDay": 562,
+    "timeWeek": 593,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-02-06": 193
+      "2025-02-06": 201
     }
   },
   {

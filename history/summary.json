@@ -98,19 +98,19 @@
     "url": "$URL_BITWARDEN",
     "icon": "https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 536,
-    "timeWeek": 480,
-    "timeMonth": 473,
-    "timeYear": 474,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 473,
+    "timeDay": 493,
+    "timeWeek": 472,
+    "timeMonth": 471,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-02-24": 0
+      "2025-02-24": 8
     }
   },
   {

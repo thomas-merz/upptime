@@ -229,9 +229,9 @@
     "url": "$URL_DMSAP",
     "icon": "https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png",
     "slug": "dm-sap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -241,6 +241,7 @@
     "timeMonth": 3244,
     "timeYear": 3336,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-02-04": 17
     }
   },

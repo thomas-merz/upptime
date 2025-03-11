@@ -23,11 +23,11 @@
     "icon": "https://w7.pngwing.com/pngs/950/276/png-transparent-1password-password-manager-android-lastpass-android-trademark-logo-1-password.png",
     "slug": "1-password",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 651,
     "timeDay": 546,
     "timeWeek": 636,
@@ -343,9 +343,9 @@
     "url": "login.microsoft.com",
     "icon": "https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png",
     "slug": "microsoft-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -355,6 +355,7 @@
     "timeMonth": 493,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2024-08-05": 18
     }
   },

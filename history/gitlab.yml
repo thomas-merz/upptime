@@ -1,7 +1,7 @@
 url: $URL_GITLAB
-status: up
-code: 200
-responseTime: 679
-lastUpdated: 2025-03-25T23:17:04.605Z
+status: down
+code: 502
+responseTime: 473
+lastUpdated: 2025-03-26T20:35:05.213Z
 startTime: 2021-12-23T18:48:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>

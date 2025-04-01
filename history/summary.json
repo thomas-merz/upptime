@@ -80,9 +80,9 @@
     "slug": "alpha",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 722,
@@ -90,7 +90,6 @@
     "timeMonth": 774,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-03-31": 7,
       "2024-09-05": 15
     }
   },
@@ -242,7 +241,7 @@
     "time": 3444,
     "timeDay": 2792,
     "timeWeek": 3967,
-    "timeMonth": 3603,
+    "timeMonth": 3597,
     "timeYear": 3444,
     "dailyMinutesDown": {
       "2025-03-30": 143,

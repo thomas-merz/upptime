@@ -42,10 +42,10 @@
     "url": "$URL_ADFS",
     "icon": "https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png",
     "slug": "adfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -53,7 +53,9 @@
     "timeWeek": 787,
     "timeMonth": 770,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "ALI",
@@ -233,18 +235,19 @@
     "url": "$URL_DMSAP",
     "icon": "https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png",
     "slug": "dm-sap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.82%",
     "time": 3454,
-    "timeDay": 2947,
+    "timeDay": 3176,
     "timeWeek": 3474,
     "timeMonth": 3612,
     "timeYear": 3454,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-03-30": 143,
       "2025-03-02": 19,
       "2025-02-04": 17

@@ -4,19 +4,19 @@
     "url": "https://www.dm.de/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png",
     "slug": "dm-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 344,
-    "timeWeek": 388,
-    "timeMonth": 411,
+    "timeDay": 398,
+    "timeWeek": 401,
+    "timeMonth": 414,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 19
     }
   },
   {
@@ -361,7 +361,7 @@
     "status": "up",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.12%",
+    "uptimeWeek": "86.31%",
     "uptimeMonth": "88.13%",
     "uptimeYear": "98.98%",
     "time": 327,

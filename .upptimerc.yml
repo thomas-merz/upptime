@@ -70,6 +70,9 @@ sites:
   - name: Nutrax
     url: $URL_NUTRAX
     icon: https://www.softwareabc24.de/logos/timesec-zeiterfassung-software-logo-2024.png
+  - name: Planisware
+    url: $URL_PLANISWARE
+    icon: https://media.licdn.com/dms/image/v2/D4E0BAQF8dUmW-mEFYQ/company-logo_200_200/company-logo_200_200/0/1688394901470/planisware_logo?e=2147483647&v=beta&t=Ms4Na4xTuCxxtMNNHEYDVGwoNu-Fz_F-9LG1tvUv7ho
   - name: Rubrik Cloud
     url: $URL_RUBRIK
     icon: https://w7.pngwing.com/pngs/796/825/png-transparent-rubrik-full-logo-tech-companies.png

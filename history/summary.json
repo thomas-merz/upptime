@@ -448,18 +448,18 @@
     "icon": "https://media.licdn.com/dms/image/v2/D4E0BAQF8dUmW-mEFYQ/company-logo_200_200/company-logo_200_200/0/1688394901470/planisware_logo?e=2147483647&v=beta&t=Ms4Na4xTuCxxtMNNHEYDVGwoNu-Fz_F-9LG1tvUv7ho",
     "slug": "planisware",
     "status": "down",
-    "uptime": "5.11%",
-    "uptimeDay": "5.11%",
-    "uptimeWeek": "5.11%",
-    "uptimeMonth": "5.11%",
-    "uptimeYear": "5.11%",
+    "uptime": "3.13%",
+    "uptimeDay": "3.13%",
+    "uptimeWeek": "3.13%",
+    "uptimeMonth": "3.13%",
+    "uptimeYear": "3.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-05": 0
+      "2025-05-05": 1
     }
   },
   {

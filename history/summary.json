@@ -106,19 +106,17 @@
     "icon": "https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
     "timeDay": 446,
     "timeWeek": 489,
     "timeMonth": 486,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2025-05-18": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Condeco",

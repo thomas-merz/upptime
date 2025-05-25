@@ -1,7 +1,7 @@
 url: $URL_DMTRAVEL
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2025-05-24T23:17:35.891Z
+status: down
+code: 503
+responseTime: 11482
+lastUpdated: 2025-05-25T08:49:32.638Z
 startTime: 2025-01-29T12:24:04.770Z
 generator: Upptime <https://github.com/upptime/upptime>

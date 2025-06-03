@@ -403,19 +403,19 @@
     "url": "https://teams.microsoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/teams.microsoft.com.ico",
     "slug": "microsoft-teams",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 13957,
-    "timeWeek": 3690,
-    "timeMonth": 1046,
+    "timeDay": 9354,
+    "timeWeek": 3297,
+    "timeMonth": 1020,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-06-03": 0
+      "2025-06-03": 10
     }
   },
   {

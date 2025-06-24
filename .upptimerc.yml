@@ -5,6 +5,9 @@ sites:
   - name: dm-Homepage
     url: https://www.dm.de/
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: 1Password
     url: $URL_1PASSWORD
     icon: https://w7.pngwing.com/pngs/950/276/png-transparent-1password-password-manager-android-lastpass-android-trademark-logo-1-password.png
@@ -54,6 +57,9 @@ sites:
   - name: Gitlab
     url: $URL_GITLAB
     icon: https://logowik.com/content/uploads/images/gitlab8368.jpg
+    expectedStatusCodes:
+      - 302
+      - 403
   - name: Jira
     url: $URL_JIRA
     icon: https://iconape.com/wp-content/files/ew/71098/png/jira-3.png

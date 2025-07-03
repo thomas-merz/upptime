@@ -58,6 +58,7 @@ sites:
     url: $URL_GITLAB
     icon: https://logowik.com/content/uploads/images/gitlab8368.jpg
     expectedStatusCodes:
+      - 200
       - 302
       - 403
   - name: Jira

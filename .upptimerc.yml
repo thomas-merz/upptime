@@ -65,7 +65,7 @@ sites:
     url: $URL_JIRA
     icon: https://iconape.com/wp-content/files/ew/71098/png/jira-3.png
   - name: Microsoft Login
-    url: login.microsoft.com
+    url: https://login.microsoft.com
     icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
   - name: Microsoft Teams
     url: https://teams.microsoft.com

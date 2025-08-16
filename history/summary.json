@@ -585,10 +585,10 @@
     "url": "$URL_VPN",
     "icon": "https://cdn.imgbin.com/13/0/14/imgbin-cisco-anyconnect-vpn-client-computer-icons-cisco-systems-portable-network-graphics-virtual-private-network-cisco-anyconnect-vpn-icon-KAr0B2nUVEF34rRa14QbNqfXn.jpg",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.90%",
     "time": 588,
@@ -597,6 +597,7 @@
     "timeMonth": 523,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-08-03": 39,
       "2025-07-22": 118,
       "2025-07-17": 33,
@@ -619,17 +620,15 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 1264,
     "timeWeek": 1038,
     "timeMonth": 1104,
     "timeYear": 797,
-    "dailyMinutesDown": {
-      "2025-08-16": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]

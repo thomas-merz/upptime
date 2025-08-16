@@ -617,19 +617,19 @@
     "url": "$URL_WIKI",
     "icon": "https://img.icons8.com/color/452/atlassian-confluence.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 1264,
-    "timeWeek": 1038,
-    "timeMonth": 1104,
+    "timeDay": 1109,
+    "timeWeek": 1011,
+    "timeMonth": 1095,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-08-16": 1
+      "2025-08-16": 7
     }
   }
 ]

@@ -119,9 +119,7 @@
     "timeWeek": 1028,
     "timeMonth": 885,
     "timeYear": 884,
-    "dailyMinutesDown": {
-      "2024-09-05": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bitwarden",
@@ -129,18 +127,17 @@
     "icon": "https://w7.pngwing.com/pngs/842/316/png-transparent-bitwarden-alt-macos-bigsur-icon.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.81%",
     "time": 497,
     "timeDay": 578,
     "timeWeek": 623,
-    "timeMonth": 566,
+    "timeMonth": 569,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2025-09-04": 10,
       "2025-07-10": 607,
       "2025-07-09": 40
     }
@@ -448,8 +445,7 @@
     "timeMonth": 1515,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2024-10-16": 15,
-      "2024-09-05": 15
+      "2024-10-16": 15
     }
   },
   {

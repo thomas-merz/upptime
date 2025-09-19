@@ -90,9 +90,9 @@
     "url": "$URL_ALI",
     "icon": "https://logos.textgiraffe.com/logos/logo-name/Ali-designstyle-cartoon-m.png",
     "slug": "ali",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,7 +101,9 @@
     "timeWeek": 1343,
     "timeMonth": 1283,
     "timeYear": 1182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "Alpha",

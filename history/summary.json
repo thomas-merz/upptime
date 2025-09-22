@@ -445,10 +445,10 @@
     "url": "$URL_JIRA",
     "icon": "https://iconape.com/wp-content/files/ew/71098/png/jira-3.png",
     "slug": "jira",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 978,
@@ -457,6 +457,7 @@
     "timeMonth": 1499,
     "timeYear": 1006,
     "dailyMinutesDown": {
+      "2025-09-22": 1,
       "2024-10-16": 15
     }
   },
@@ -638,10 +639,10 @@
     "url": "$URL_WIKI",
     "icon": "https://img.icons8.com/color/452/atlassian-confluence.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 809,
@@ -649,6 +650,8 @@
     "timeWeek": 1051,
     "timeMonth": 1029,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 1
+    }
   }
 ]

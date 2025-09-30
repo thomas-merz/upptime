@@ -372,7 +372,7 @@
     "uptimeMonth": "99.10%",
     "uptimeYear": "97.30%",
     "time": 2111,
-    "timeDay": 854,
+    "timeDay": 796,
     "timeWeek": 728,
     "timeMonth": 743,
     "timeYear": 1526,
@@ -551,10 +551,10 @@
     "url": "$URL_PLANISWARE",
     "icon": "https://media.licdn.com/dms/image/v2/D4E0BAQF8dUmW-mEFYQ/company-logo_200_200/company-logo_200_200/0/1688394901470/planisware_logo?e=2147483647&v=beta&t=Ms4Na4xTuCxxtMNNHEYDVGwoNu-Fz_F-9LG1tvUv7ho",
     "slug": "planisware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1090,
@@ -563,6 +563,7 @@
     "timeMonth": 1096,
     "timeYear": 1090,
     "dailyMinutesDown": {
+      "2025-09-30": 1,
       "2025-05-05": 26
     }
   },

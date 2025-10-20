@@ -463,9 +463,9 @@
     "slug": "jira",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1009,
     "timeDay": 1775,
@@ -473,7 +473,7 @@
     "timeMonth": 1465,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2025-10-20": 2,
+      "2025-10-20": 9,
       "2025-09-22": 16
     }
   },
@@ -656,19 +656,19 @@
     "url": "$URL_WIKI",
     "icon": "https://img.icons8.com/color/452/atlassian-confluence.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 1207,
-    "timeWeek": 1161,
-    "timeMonth": 1063,
-    "timeYear": 848,
+    "time": 832,
+    "timeDay": 1681,
+    "timeWeek": 1286,
+    "timeMonth": 1097,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-10-20": 1,
+      "2025-10-20": 6,
       "2025-09-22": 16
     }
   }

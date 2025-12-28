@@ -381,17 +381,16 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "99.52%",
     "time": 1439,
     "timeDay": 810,
     "timeWeek": 761,
     "timeMonth": 782,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-12-27": 7,
       "2025-12-26": 22,
       "2025-12-23": 17,
       "2025-12-21": 18,
@@ -446,7 +445,7 @@
       "2025-09-13": 38,
       "2025-09-11": 19,
       "2025-09-08": 17,
-      "2025-09-07": 43
+      "2025-09-07": 63
     }
   },
   {

@@ -397,19 +397,19 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "96.72%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.51%",
-    "time": 1190,
-    "timeDay": 721,
+    "time": 1187,
+    "timeDay": 737,
     "timeWeek": 763,
     "timeMonth": 799,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2026-01-15": 52,
+      "2026-01-15": 53,
       "2026-01-14": 85,
       "2026-01-13": 74,
       "2026-01-12": 15,
@@ -465,7 +465,7 @@
       "2025-10-11": 92,
       "2025-10-10": 43,
       "2025-10-09": 19,
-      "2025-10-08": 75
+      "2025-10-08": 50
     }
   },
   {

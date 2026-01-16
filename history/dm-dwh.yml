@@ -1,7 +1,7 @@
 url: $URL_DMDWH
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2026-01-15T23:21:30.010Z
+status: down
+code: 502
+responseTime: 799
+lastUpdated: 2026-01-16T15:48:31.107Z
 startTime: 2025-01-29T12:21:31.220Z
 generator: Upptime <https://github.com/upptime/upptime>

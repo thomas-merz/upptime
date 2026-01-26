@@ -14,7 +14,7 @@
     "timeDay": 275,
     "timeWeek": 357,
     "timeMonth": 383,
-    "timeYear": 504,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2025-11-23": 22,
       "2025-06-23": 23,
@@ -64,7 +64,7 @@
     "timeDay": 1139,
     "timeWeek": 978,
     "timeMonth": 1117,
-    "timeYear": 862,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-08-21": 17,
       "2025-08-17": 15,
@@ -117,7 +117,7 @@
     "timeDay": 1134,
     "timeWeek": 943,
     "timeMonth": 948,
-    "timeYear": 943,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   },
   {
@@ -398,19 +398,19 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "84.56%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.45%",
-    "time": 1197,
+    "time": 1196,
     "timeDay": 699,
-    "timeWeek": 730,
+    "timeWeek": 728,
     "timeMonth": 761,
-    "timeYear": 816,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2026-01-26": 224,
+      "2026-01-26": 214,
       "2026-01-25": 157,
       "2026-01-24": 79,
       "2026-01-23": 47,
@@ -498,7 +498,7 @@
     "timeDay": 549,
     "timeWeek": 514,
     "timeMonth": 515,
-    "timeYear": 450,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-04-14": 1170,
       "2025-04-13": 1440,
@@ -563,7 +563,7 @@
     "timeDay": 1501,
     "timeWeek": 1218,
     "timeMonth": 1241,
-    "timeYear": 1125,
+    "timeYear": 1124,
     "dailyMinutesDown": {}
   },
   {
@@ -638,7 +638,7 @@
     "timeDay": 465,
     "timeWeek": 462,
     "timeMonth": 521,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-08-03": 39,
       "2025-07-22": 118,
@@ -670,7 +670,7 @@
     "timeDay": 682,
     "timeWeek": 686,
     "timeMonth": 784,
-    "timeYear": 879,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2025-10-20": 20,
       "2025-09-22": 16

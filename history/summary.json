@@ -402,9 +402,9 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "94.55%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "95.73%",
     "uptimeYear": "99.41%",
     "time": 1067,
     "timeDay": 812,
@@ -412,7 +412,7 @@
     "timeMonth": 758,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2026-02-02": 84,
+      "2026-02-02": 70,
       "2026-02-01": 93,
       "2026-01-31": 37,
       "2026-01-30": 104,
@@ -459,7 +459,8 @@
       "2025-11-23": 19,
       "2025-11-22": 18,
       "2025-11-21": 186,
-      "2025-11-20": 90
+      "2025-11-20": 90,
+      "2025-11-19": 15
     }
   },
   {
@@ -489,7 +490,7 @@
     "icon": "https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png",
     "slug": "microsoft-login",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

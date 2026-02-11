@@ -14,7 +14,7 @@
     "timeDay": 362,
     "timeWeek": 373,
     "timeMonth": 404,
-    "timeYear": 508,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-11-23": 22,
       "2025-06-23": 23,
@@ -64,7 +64,7 @@
     "timeDay": 654,
     "timeWeek": 773,
     "timeMonth": 888,
-    "timeYear": 869,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2025-08-21": 17,
       "2025-08-17": 15,
@@ -99,7 +99,7 @@
     "timeDay": 935,
     "timeWeek": 1236,
     "timeMonth": 1252,
-    "timeYear": 1177,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -117,7 +117,7 @@
     "timeDay": 807,
     "timeWeek": 952,
     "timeMonth": 918,
-    "timeYear": 937,
+    "timeYear": 938,
     "dailyMinutesDown": {}
   },
   {
@@ -147,10 +147,10 @@
     "url": "$URL_CONDECO",
     "icon": "https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png",
     "slug": "condeco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "98.07%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "98.11%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.70%",
     "time": 754,
@@ -159,6 +159,7 @@
     "timeMonth": 1285,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2026-02-11": 1,
       "2026-02-10": 35,
       "2026-02-06": 74,
       "2026-02-05": 42,
@@ -226,7 +227,7 @@
     "timeDay": 703,
     "timeWeek": 746,
     "timeMonth": 739,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2026-02-01": 65,
       "2026-01-24": 115,
@@ -253,7 +254,7 @@
     "timeDay": 990,
     "timeWeek": 951,
     "timeMonth": 949,
-    "timeYear": 889,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   },
   {
@@ -289,7 +290,7 @@
     "timeDay": 860,
     "timeWeek": 1003,
     "timeMonth": 1038,
-    "timeYear": 992,
+    "timeYear": 993,
     "dailyMinutesDown": {}
   },
   {
@@ -307,7 +308,7 @@
     "timeDay": 2458,
     "timeWeek": 3312,
     "timeMonth": 3287,
-    "timeYear": 3403,
+    "timeYear": 3406,
     "dailyMinutesDown": {
       "2025-10-27": 22,
       "2025-08-21": 16,
@@ -389,7 +390,7 @@
     "timeDay": 333,
     "timeWeek": 440,
     "timeMonth": 688,
-    "timeYear": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2025-10-07": 38,
       "2025-09-29": 25,
@@ -412,8 +413,8 @@
     "time": 1228,
     "timeDay": 656,
     "timeWeek": 726,
-    "timeMonth": 746,
-    "timeYear": 731,
+    "timeMonth": 748,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2026-02-11": 115,
       "2026-02-09": 110,
@@ -484,7 +485,7 @@
     "timeDay": 803,
     "timeWeek": 1229,
     "timeMonth": 1177,
-    "timeYear": 1184,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2025-10-20": 23,
       "2025-09-22": 16
@@ -570,7 +571,7 @@
     "timeDay": 1065,
     "timeWeek": 1260,
     "timeMonth": 1197,
-    "timeYear": 1099,
+    "timeYear": 1101,
     "dailyMinutesDown": {}
   },
   {
@@ -627,7 +628,7 @@
     "timeDay": 857,
     "timeWeek": 1059,
     "timeMonth": 1102,
-    "timeYear": 1041,
+    "timeYear": 1042,
     "dailyMinutesDown": {}
   },
   {

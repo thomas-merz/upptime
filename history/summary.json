@@ -367,18 +367,20 @@
     "url": "$URL_DMSHAREPOINT",
     "icon": "https://www.liblogo.com/img-logo/sh7810fc31-sharepoint-logo-file-microsoft-office-sharepoint-2019-present-svg-wikimedia.png",
     "slug": "dm-sharepoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 213,
-    "timeWeek": 273,
-    "timeMonth": 222,
-    "timeYear": 542,
-    "dailyMinutesDown": {}
+    "time": 563,
+    "timeDay": 1391,
+    "timeWeek": 560,
+    "timeMonth": 303,
+    "timeYear": 547,
+    "dailyMinutesDown": {
+      "2026-03-05": 1
+    }
   },
   {
     "name": "dm-Travel",

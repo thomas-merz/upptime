@@ -1,7 +1,7 @@
 url: https://teams.microsoft.com
-status: down
-code: 403
-responseTime: 38
-lastUpdated: 2026-03-07T23:24:03.277Z
+status: up
+code: 200
+responseTime: 120
+lastUpdated: 2026-03-07T23:42:44.515Z
 startTime: 2024-07-30T12:42:43.557Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -98,6 +98,10 @@ sites:
   - name: Wiki
     url: $URL_WIKI
     icon: https://img.icons8.com/color/452/atlassian-confluence.png
+  - name: Wiz
+    url: https://app.wiz.io/
+    expectedStatusCodes:
+     - 403
 assignees:
   - thomas-merz
 

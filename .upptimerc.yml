@@ -70,6 +70,8 @@ sites:
   - name: Microsoft Login
     url: https://login.microsoft.com
     icon: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Microsoft.png
+  - name: Microsoft Engage
+    url: https://engage.cloud.microsoft/
   - name: Microsoft Teams
     url: https://teams.microsoft.com
   - name: Microsoft Outlook

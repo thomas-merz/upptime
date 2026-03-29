@@ -625,18 +625,20 @@
     "url": "$URL_RUBRIK",
     "icon": "https://w7.pngwing.com/pngs/796/825/png-transparent-rubrik-full-logo-tech-companies.png",
     "slug": "rubrik-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 608,
-    "timeWeek": 338,
-    "timeMonth": 341,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 329,
+    "timeDay": 390,
+    "timeWeek": 317,
+    "timeMonth": 335,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2026-03-29": 1
+    }
   },
   {
     "name": "Team-MkDocs",

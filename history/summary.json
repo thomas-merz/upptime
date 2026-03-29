@@ -417,7 +417,7 @@
     "uptime": "99.80%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "95.11%",
+    "uptimeMonth": "95.12%",
     "uptimeYear": "99.14%",
     "time": 877,
     "timeDay": 537,
@@ -625,19 +625,19 @@
     "url": "$URL_RUBRIK",
     "icon": "https://w7.pngwing.com/pngs/796/825/png-transparent-rubrik-full-logo-tech-companies.png",
     "slug": "rubrik-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 390,
-    "timeWeek": 317,
+    "timeDay": 369,
+    "timeWeek": 318,
     "timeMonth": 335,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2026-03-29": 1
+      "2026-03-29": 58
     }
   },
   {

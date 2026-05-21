@@ -4,7 +4,7 @@ repo: upptime
 sites:
   - name: dm-Homepage
     url: https://www.dm.de/
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/320px-Dm_Logo.svg.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dm-drogerie_markt_logo.svg/3840px-Dm-drogerie_markt_logo.svg.png
     expectedStatusCodes:
       - 200
       - 403

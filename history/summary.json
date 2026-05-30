@@ -141,17 +141,17 @@
     "url": "$URL_CONDECO",
     "icon": "https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png",
     "slug": "condeco",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.59%",
-    "time": 741,
-    "timeDay": 589,
-    "timeWeek": 902,
-    "timeMonth": 788,
-    "timeYear": 748,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.57%",
+    "time": 742,
+    "timeDay": 870,
+    "timeWeek": 933,
+    "timeMonth": 800,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-07-05": 24,
       "2025-07-17": 40,
@@ -189,7 +189,7 @@
       "2026-04-01": 52,
       "2026-04-07": 54,
       "2026-04-18": 372,
-      "2026-05-30": 90
+      "2026-05-30": 206
     }
   },
   {

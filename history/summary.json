@@ -388,10 +388,10 @@
     "slug": "gitlab",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "69.01%",
-    "uptimeWeek": "65.14%",
-    "uptimeMonth": "85.83%",
-    "uptimeYear": "98.09%",
+    "uptimeDay": "58.07%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "85.47%",
+    "uptimeYear": "98.06%",
     "time": 733,
     "timeDay": 1192,
     "timeWeek": 1087,
@@ -457,7 +457,7 @@
       "2026-06-12": 504,
       "2026-06-13": 670,
       "2026-06-14": 446,
-      "2026-06-15": 1
+      "2026-06-15": 158
     }
   },
   {

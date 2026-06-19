@@ -14,7 +14,7 @@
     "timeDay": 356,
     "timeWeek": 311,
     "timeMonth": 339,
-    "timeYear": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-06-21": 112,
       "2025-06-22": 56,
@@ -81,7 +81,7 @@
     "timeDay": 1543,
     "timeWeek": 1186,
     "timeMonth": 1173,
-    "timeYear": 1195,
+    "timeYear": 1196,
     "dailyMinutesDown": {}
   },
   {
@@ -213,7 +213,7 @@
     "timeDay": 778,
     "timeWeek": 715,
     "timeMonth": 684,
-    "timeYear": 697,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2025-07-22": 40,
       "2025-09-15": 54,
@@ -244,7 +244,7 @@
     "timeDay": 963,
     "timeWeek": 937,
     "timeMonth": 882,
-    "timeYear": 916,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -280,7 +280,7 @@
     "timeDay": 1202,
     "timeWeek": 1110,
     "timeMonth": 1101,
-    "timeYear": 1022,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   },
   {
@@ -298,7 +298,7 @@
     "timeDay": 2754,
     "timeWeek": 2490,
     "timeMonth": 3109,
-    "timeYear": 3350,
+    "timeYear": 3351,
     "dailyMinutesDown": {
       "2025-06-22": 22,
       "2025-07-02": 26,
@@ -371,7 +371,7 @@
     "timeDay": 878,
     "timeWeek": 596,
     "timeMonth": 1073,
-    "timeYear": 880,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-08-24": 30,
       "2025-09-29": 25,
@@ -384,16 +384,16 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "60.43%",
-    "uptimeWeek": "58.18%",
-    "uptimeMonth": "79.34%",
-    "uptimeYear": "97.60%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "52.26%",
+    "uptimeWeek": "57.57%",
+    "uptimeMonth": "79.07%",
+    "uptimeYear": "97.58%",
     "time": 738,
-    "timeDay": 1071,
-    "timeWeek": 1015,
-    "timeMonth": 1046,
+    "timeDay": 990,
+    "timeWeek": 1006,
+    "timeMonth": 1042,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2026-03-10": 59,
@@ -456,7 +456,7 @@
       "2026-06-16": 432,
       "2026-06-17": 543,
       "2026-06-18": 475,
-      "2026-06-19": 570
+      "2026-06-19": 688
     }
   },
   {
@@ -495,7 +495,7 @@
     "timeDay": 447,
     "timeWeek": 362,
     "timeMonth": 388,
-    "timeYear": 471,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2026-03-22": 24
     }
@@ -573,7 +573,7 @@
     "timeDay": 1279,
     "timeWeek": 1024,
     "timeMonth": 1062,
-    "timeYear": 1129,
+    "timeYear": 1130,
     "dailyMinutesDown": {}
   },
   {
@@ -591,7 +591,7 @@
     "timeDay": 2112,
     "timeWeek": 1504,
     "timeMonth": 1382,
-    "timeYear": 1191,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2026-03-19": 36
@@ -632,7 +632,7 @@
     "timeDay": 1378,
     "timeWeek": 1170,
     "timeMonth": 1145,
-    "timeYear": 1106,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {

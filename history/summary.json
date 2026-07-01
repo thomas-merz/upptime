@@ -285,17 +285,17 @@
     "url": "$URL_DMSAP",
     "icon": "https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png",
     "slug": "dm-sap",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 3329,
-    "timeDay": 1733,
-    "timeWeek": 2042,
-    "timeMonth": 2639,
-    "timeYear": 3299,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.91%",
+    "time": 3328,
+    "timeDay": 2076,
+    "timeWeek": 2089,
+    "timeMonth": 2632,
+    "timeYear": 3297,
     "dailyMinutesDown": {
       "2025-07-02": 26,
       "2025-07-04": 73,
@@ -309,7 +309,7 @@
       "2025-10-27": 22,
       "2026-03-05": 23,
       "2026-03-06": 78,
-      "2026-07-01": 1
+      "2026-07-01": 80
     }
   },
   {
@@ -317,11 +317,11 @@
     "url": "$URL_DMHCMSAP",
     "icon": "https://e7.pngegg.com/pngimages/646/840/png-clipart-sap-logo-illustration-sap-se-computer-icons-sap-erp-wtf-miscellaneous-blue.png",
     "slug": "dm-hcmsap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1966,
     "timeDay": 1509,
@@ -329,7 +329,8 @@
     "timeMonth": 2554,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2026-03-02": 38
+      "2026-03-02": 38,
+      "2026-07-01": 6
     }
   },
   {
@@ -381,19 +382,18 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "89.28%",
-    "uptimeWeek": "82.79%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "83.46%",
     "uptimeMonth": "75.38%",
-    "uptimeYear": "97.28%",
-    "time": 753,
+    "uptimeYear": "97.30%",
+    "time": 754,
     "timeDay": 1127,
-    "timeWeek": 1056,
+    "timeWeek": 1042,
     "timeMonth": 1066,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2026-03-17": 98,
       "2026-03-18": 57,
       "2026-03-19": 30,
       "2026-03-20": 65,
@@ -458,7 +458,7 @@
       "2026-06-28": 391,
       "2026-06-29": 108,
       "2026-06-30": 4,
-      "2026-07-01": 154
+      "2026-07-01": 155
     }
   },
   {

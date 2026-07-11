@@ -381,8 +381,8 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "92.75%",
-    "uptimeWeek": "86.91%",
-    "uptimeMonth": "78.17%",
+    "uptimeWeek": "87.04%",
+    "uptimeMonth": "78.20%",
     "uptimeYear": "97.05%",
     "time": 749,
     "timeDay": 1041,
@@ -461,20 +461,21 @@
     "url": "$URL_JIRA",
     "icon": "https://iconape.com/wp-content/files/ew/71098/png/jira-3.png",
     "slug": "jira",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1245,
+    "time": 1246,
     "timeDay": 1012,
     "timeWeek": 1190,
     "timeMonth": 1358,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-09-22": 16,
-      "2025-10-20": 23
+      "2025-10-20": 23,
+      "2026-07-11": 1
     }
   },
   {

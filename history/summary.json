@@ -121,7 +121,7 @@
     "icon": "https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png",
     "slug": "condeco",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
@@ -372,11 +372,11 @@
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "90.31%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "88.20%",
-    "uptimeYear": "96.97%",
+    "uptime": "99.33%",
+    "uptimeDay": "76.81%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "96.93%",
     "time": 763,
     "timeDay": 1081,
     "timeWeek": 1077,
@@ -444,7 +444,7 @@
       "2026-07-18": 143,
       "2026-07-19": 41,
       "2026-07-20": 139,
-      "2026-07-21": 1
+      "2026-07-21": 195
     }
   },
   {

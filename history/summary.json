@@ -34,7 +34,7 @@
     "timeDay": 399,
     "timeWeek": 671,
     "timeMonth": 626,
-    "timeYear": 777,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeDay": 511,
     "timeWeek": 691,
     "timeMonth": 680,
-    "timeYear": 859,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2025-08-03": 18,
       "2025-08-17": 15,
@@ -74,7 +74,7 @@
     "timeDay": 950,
     "timeWeek": 1127,
     "timeMonth": 1144,
-    "timeYear": 1204,
+    "timeYear": 1203,
     "dailyMinutesDown": {}
   },
   {
@@ -110,7 +110,7 @@
     "timeDay": 463,
     "timeWeek": 648,
     "timeMonth": 652,
-    "timeYear": 665,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2026-02-02": 16
     }
@@ -287,7 +287,7 @@
     "timeDay": 1798,
     "timeWeek": 2359,
     "timeMonth": 2044,
-    "timeYear": 3200,
+    "timeYear": 3197,
     "dailyMinutesDown": {
       "2025-08-03": 18,
       "2025-08-10": 18,
@@ -336,7 +336,7 @@
     "timeDay": 298,
     "timeWeek": 393,
     "timeMonth": 290,
-    "timeYear": 475,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2026-03-05": 77,
       "2026-03-29": 28
@@ -370,16 +370,16 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "91.48%",
-    "uptimeMonth": "88.54%",
-    "uptimeYear": "96.95%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "90.97%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "96.94%",
     "time": 765,
-    "timeDay": 763,
-    "timeWeek": 1111,
-    "timeMonth": 1065,
+    "timeDay": 978,
+    "timeWeek": 1116,
+    "timeMonth": 1067,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2026-04-25": 82,
@@ -442,7 +442,7 @@
       "2026-07-20": 139,
       "2026-07-21": 284,
       "2026-07-22": 54,
-      "2026-07-23": 1
+      "2026-07-23": 52
     }
   },
   {
@@ -460,7 +460,7 @@
     "timeDay": 1226,
     "timeWeek": 1542,
     "timeMonth": 1347,
-    "timeYear": 1360,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-09-22": 16,
       "2025-10-20": 23,
@@ -559,7 +559,7 @@
     "timeDay": 605,
     "timeWeek": 990,
     "timeMonth": 1068,
-    "timeYear": 1137,
+    "timeYear": 1135,
     "dailyMinutesDown": {}
   },
   {
@@ -656,7 +656,7 @@
     "timeDay": 617,
     "timeWeek": 862,
     "timeMonth": 804,
-    "timeYear": 875,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-09-22": 16,
       "2025-10-20": 20

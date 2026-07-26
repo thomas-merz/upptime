@@ -24,18 +24,20 @@
     "url": "$URL_1PASSWORD",
     "icon": "https://w7.pngwing.com/pngs/950/276/png-transparent-1password-password-manager-android-lastpass-android-trademark-logo-1-password.png",
     "slug": "1-password",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 752,
     "timeDay": 809,
     "timeWeek": 673,
     "timeMonth": 625,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 10
+    }
   },
   {
     "name": "ADFS",
@@ -175,18 +177,20 @@
     "url": "$URL_CROWDSTRIKE",
     "icon": "https://w7.pngwing.com/pngs/409/360/png-transparent-crowdstrike-hd-logo-thumbnail.png",
     "slug": "crowdstrike-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 1174,
     "timeWeek": 950,
     "timeMonth": 911,
     "timeYear": 673,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 6
+    }
   },
   {
     "name": "dm-DWH",
@@ -287,7 +291,7 @@
     "timeDay": 3092,
     "timeWeek": 2516,
     "timeMonth": 2093,
-    "timeYear": 3190,
+    "timeYear": 3191,
     "dailyMinutesDown": {
       "2025-08-03": 18,
       "2025-08-10": 18,
@@ -348,7 +352,7 @@
     "icon": "https://img.freepik.com/premium-vector/detailed-travel-logo_23-2148616612.jpg?w=2000",
     "slug": "dm-travel",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -370,19 +374,18 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "96.92%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "92.74%",
+    "uptimeMonth": "89.48%",
+    "uptimeYear": "96.93%",
     "time": 767,
     "timeDay": 1073,
     "timeWeek": 1070,
-    "timeMonth": 1060,
+    "timeMonth": 1063,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
       "2026-04-27": 377,
       "2026-04-29": 133,
       "2026-05-06": 11,
@@ -443,7 +446,8 @@
       "2026-07-22": 54,
       "2026-07-23": 52,
       "2026-07-24": 67,
-      "2026-07-25": 94
+      "2026-07-25": 94,
+      "2026-07-26": 1
     }
   },
   {

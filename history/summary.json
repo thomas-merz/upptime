@@ -390,16 +390,16 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "97.26%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "97.25%",
     "time": 775,
-    "timeDay": 1223,
-    "timeWeek": 1079,
-    "timeMonth": 1064,
+    "timeDay": 1035,
+    "timeWeek": 1051,
+    "timeMonth": 1058,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2026-06-09": 479,
@@ -460,7 +460,7 @@
       "2026-08-10": 68,
       "2026-08-12": 71,
       "2026-08-13": 41,
-      "2026-08-14": 69
+      "2026-08-14": 116
     }
   },
   {
@@ -605,20 +605,20 @@
     "url": "$URL_RUBRIK",
     "icon": "https://w7.pngwing.com/pngs/796/825/png-transparent-rubrik-full-logo-tech-companies.png",
     "slug": "rubrik-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 334,
-    "timeDay": 288,
-    "timeWeek": 341,
-    "timeMonth": 370,
+    "timeDay": 294,
+    "timeWeek": 338,
+    "timeMonth": 368,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2026-03-29": 58,
-      "2026-08-14": 1
+      "2026-08-14": 48
     }
   },
   {

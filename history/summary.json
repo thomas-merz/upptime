@@ -381,19 +381,19 @@
     "url": "$URL_GITLAB",
     "icon": "https://logowik.com/content/uploads/images/gitlab8368.jpg",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "50.63%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "95.80%",
-    "uptimeYear": "97.85%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "64.64%",
+    "uptimeWeek": "91.62%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "97.91%",
     "time": 819,
     "timeDay": 1270,
     "timeWeek": 1209,
-    "timeMonth": 1122,
+    "timeMonth": 1117,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2026-06-18": 475,
+      "2026-06-18": 184,
       "2026-06-19": 688,
       "2026-06-20": 205,
       "2026-06-22": 316,
@@ -459,7 +459,8 @@
       "2026-09-13": 133,
       "2026-09-17": 39,
       "2026-09-16": 94,
-      "2026-09-21": 711
+      "2026-09-21": 711,
+      "2026-09-22": 1
     }
   },
   {
@@ -477,7 +478,7 @@
     "timeDay": 1536,
     "timeWeek": 1335,
     "timeMonth": 1401,
-    "timeYear": 1337,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-10-20": 23,
       "2026-07-11": 140,
@@ -665,12 +666,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 861,
     "timeDay": 927,
     "timeWeek": 867,
     "timeMonth": 827,
-    "timeYear": 840,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2025-10-20": 20
     }

@@ -89,12 +89,15 @@ sites:
     icon: https://media.licdn.com/dms/image/v2/D4E0BAQF8dUmW-mEFYQ/company-logo_200_200/company-logo_200_200/0/1688394901470/planisware_logo?e=2147483647&v=beta&t=Ms4Na4xTuCxxtMNNHEYDVGwoNu-Fz_F-9LG1tvUv7ho
   - name: Portal Azure
     url: $URL_PORTAL_AZURE
+    icon: https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/azure.webp
     expectedStatusCodes:
       - 403
   - name: Portal AWS
     url: $URL_PORTAL_AWS
+    icon: https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/aws-color.png
   - name: Portal GCP
     url: $URL_PORTAL_GCP
+    icon: https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/googlecloud-color.png
   - name: Rubrik Cloud
     url: $URL_RUBRIK
     icon: https://w7.pngwing.com/pngs/796/825/png-transparent-rubrik-full-logo-tech-companies.png
@@ -110,6 +113,7 @@ sites:
     icon: https://img.icons8.com/color/452/atlassian-confluence.png
   - name: Wiz
     url: https://app.wiz.io/
+    icon: https://www.freelogovectors.net/wp-content/uploads/2022/10/wiz-logo-freelogovectors.net_-400x199.png
     expectedStatusCodes:
      - 403
 assignees:

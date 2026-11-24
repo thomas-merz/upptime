@@ -30,6 +30,7 @@ sites:
     icon: https://cdn.freelogovectors.net/wp-content/uploads/2021/11/condeco-logo-freelogovectors.net_.png
   - name: DataDog
     url: $URL_DATADOG
+    icon: https://companieslogo.com/img/orig/DDOG-bfb66011.svg
   - name: dm-DWH
     url: $URL_DMDWH
     icon: https://s3-symbol-logo.tradingview.com/microstrategy--big.svg

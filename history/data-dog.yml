@@ -1,7 +1,7 @@
 url: $URL_DATADOG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-24T13:26:32.204Z
+status: up
+code: 200
+responseTime: 966
+lastUpdated: 2026-11-24T13:44:01.871Z
 startTime: 2026-11-24T13:26:20.191Z
 generator: Upptime <https://github.com/upptime/upptime>

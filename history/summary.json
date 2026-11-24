@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-dog",
     "status": "down",
-    "uptime": "9.98%",
-    "uptimeDay": "9.98%",
-    "uptimeWeek": "9.98%",
-    "uptimeMonth": "9.98%",
-    "uptimeYear": "9.98%",
+    "uptime": "5.11%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "5.11%",
+    "uptimeMonth": "5.11%",
+    "uptimeYear": "5.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 2
+      "2026-11-24": 4
     }
   },
   {
@@ -592,18 +592,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portal-azure",
     "status": "down",
-    "uptime": "8.30%",
-    "uptimeDay": "8.30%",
-    "uptimeWeek": "8.30%",
-    "uptimeMonth": "8.30%",
-    "uptimeYear": "8.30%",
+    "uptime": "4.99%",
+    "uptimeDay": "4.99%",
+    "uptimeWeek": "4.99%",
+    "uptimeMonth": "4.99%",
+    "uptimeYear": "4.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 2
+      "2026-11-24": 4
     }
   },
   {
@@ -612,18 +612,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portal-aws",
     "status": "down",
-    "uptime": "9.43%",
-    "uptimeDay": "9.43%",
-    "uptimeWeek": "9.43%",
-    "uptimeMonth": "9.43%",
-    "uptimeYear": "9.43%",
+    "uptime": "5.42%",
+    "uptimeDay": "5.42%",
+    "uptimeWeek": "5.42%",
+    "uptimeMonth": "5.42%",
+    "uptimeYear": "5.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 2
+      "2026-11-24": 3
     }
   },
   {
@@ -632,18 +632,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portal-gcp",
     "status": "down",
-    "uptime": "10.97%",
-    "uptimeDay": "10.97%",
-    "uptimeWeek": "10.97%",
-    "uptimeMonth": "10.97%",
-    "uptimeYear": "10.97%",
+    "uptime": "5.54%",
+    "uptimeDay": "5.54%",
+    "uptimeWeek": "5.54%",
+    "uptimeMonth": "5.54%",
+    "uptimeYear": "5.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 2
+      "2026-11-24": 3
     }
   },
   {

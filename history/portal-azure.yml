@@ -1,7 +1,7 @@
 url: $URL_PORTAL_AZURE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-24T13:27:07.358Z
+status: up
+code: 403
+responseTime: 22
+lastUpdated: 2026-11-24T13:52:08.903Z
 startTime: 2026-11-24T13:26:55.343Z
 generator: Upptime <https://github.com/upptime/upptime>
